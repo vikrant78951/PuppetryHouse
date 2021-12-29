@@ -1,0 +1,78 @@
+.icon_choose {color: #f1c40f !important;}
+.portfolioFilter  a.current {color: #f1c40f!important; }
+.portfolioFilter ul li a:hover {color: #f1c40f!important; }
+.parallax_name {background: #f1c40f !important;}
+.super-menu a.active {color: #f1c40f !important;}
+.super-menu a:hover {color: #f1c40f !important;}
+.hover-project {background: rgba(243, 198, 0, 0.75)!important;}			
+.round_left a i:hover {color:  #f1c40f !important;}
+.round_right a i:hover{color:  #f1c40f !important;}
+.footer {border-top: 5px solid #f1c40f !important;}
+.footer_bottom a {color: #f1c40f !important;}
+.soc ul li a:hover {background: #f1c40f !important;}			
+.post_name a {color: #f1c40f !important;}
+#responsive-menu-toggle:before {color:  #f1c40f !important;}
+@media screen and (max-width: 991px) {.super-menu a.active {color: #fff !important;}.super-menu a:hover {color: #fff !important;}.site-menu-with-ul {background: #f1c40f !important;}}
+.skills_list li .skill_div {background: #f1c40f !important;}
+.colored {color: #f1c40f !important;}
+.bbread a {color: #f1c40f !important;}
+.soc_about ul li a:hover { color: #f1c40f !important;}
+.icon_serv {color: #f1c40f !important;}
+.icon_serv:hover {background: #f1c40f !important; color: #f7f7f7 !important;}
+.icon_ex2 {color: #f1c40f !important;}
+.icon_ex2:hover {background: #f1c40f !important; color: #e7e7e7 !important;}
+.ac-container input:checked + label, .ac-container input:checked + label:hover {color: #f1c40f !important;}
+.adress_cont a {color: #f1c40f !important;}
+textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, 
+input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, 
+input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, .uneditable-input:focus {
+-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 12px rgba(243, 198, 0, 0.6) !important;
+-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 12px rgba(243, 198, 0, 0.6) !important;
+box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 12px rgba(243, 198, 0, 0.8) !important;
+}
+.plan.featured h3 {color: #f1c40f !important;}
+.plan.featured .price {color: #f1c40f !important;}
+.btn-price {background-color: #f1c40f !important;}
+.btn-price:hover {border-color: #f1c40f !important;}
+.clients-s a {color: #f1c40f !important;}
+.icon_orange {color: #f1c40f !important;}
+.colored {color: #f1c40f !important;}
+.categories a:hover {color: #f1c40f !important;}
+.meta-blog h2 a:hover {color: #f1c40f !important;}
+.line_blog span i {color: #f1c40f !important;}
+.line_blog a:hover {color: #f1c40f !important;}
+.line_blog_med span i {color: #f1c40f !important;}
+.line_blog_med a:hover {color: #f1c40f !important;}
+.read_more_blog a {color: #f1c40f !important;}
+.comm_name {color: #f1c40f !important;}
+.actives a {color: #f1c40f !important;}
+.sub-menu-short li a:hover {color: #f1c40f !important;}
+.actives a {color: #f1c40f !important;}
+.tool_a {color: #f1c40f !important;}
+.ui-slider-range {box-shadow: inset 0 1px 0px #f1c40f, inset 0 -1px 0px #f1c40f, inset 0 2px 0px rgba(255,255,255,0.37) !important;background: #f1c40f !important;}
+.shop_title a:hover {color: #f1c40f !important;}
+.shop_price {color: #f1c40f !important;}
+.shop_cart i:hover {color: #f1c40f !important;}
+.pride_pg .current {background-color: #f1c40f !important;}
+.pride_pg a:hover {background-color: #f1c40f !important;}
+input.input-text {box-shadow: inset 0 1px 0px #f1c40f, inset 0 -1px 0px #f1c40f, inset 0 2px 0px rgba(255,255,255,0.37) !important;background: #f1c40f !important;}
+.tags_shop:hover {color: #f1c40f !important;}
+.shop_one_price {color: #f1c40f !important;}
+.tweet_text a {color: #f1c40f !important;}
+.main_team:hover span { box-shadow: 0 0 0 160px rgba(243, 198, 0, 0.7) inset !important;}
+.purch {background: #f1c40f !important;}
+.purch:hover {background: #222 !important;}
+.number_icons {color: #f1c40f !important;}
+.button_switch li a {background: #f1c40f !important; color: #f1f1f1 !important;}
+.button_switch li a:hover {color: #f1c40f !important; background: #f1f1f1 !important;}
+.button_switch li a.active {color: #f1c40f !important; background: #f1f1f1 !important; }
+.tp-leftarrow.default:after {color: rgba(243, 198, 0, 0.8) !important;}
+.tp-rightarrow.default:after {color: rgba(243, 198, 0, 0.8) !important;}
+.super-menu a:hover:after {color: #f1c40f !important;}
+.super-menu a.active:after {color: #f1c40f !important;}
+.btn-purch:hover {border: 1px solid #f1c40f !important;}
+.team_new:hover {background: #f1c40f !important;}
+.port-hover .p-hover { background: rgba(243, 198, 0, 0.85)!important;}
+.skills-list li .skill-div {background: #f1c40f !important; background-image: -webkit-gradient(linear,0 100%,100% 0,color-stop(0.25,rgba(255,255,255,0.15)),color-stop(0.25,transparent),color-stop(0.5,transparent),color-stop(0.5,rgba(255,255,255,0.15)) ,color-stop(0.75,rgba(255,255,255,0.15)),color-stop(0.75,transparent),to(transparent)) !important;background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,0.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,0.15) 50%,rgba(255,255,255,0.15) 75%,transparent 75%,transparent) !important;background-image: -moz-linear-gradient(45deg,rgba(255,255,255,0.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,0.15) 50%,rgba(255,255,255,0.15) 75%,transparent 75%,transparent) !important;background-image: linear-gradient(45deg,rgba(255,255,255,0.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,0.15) 50%,rgba(255,255,255,0.15) 75%,transparent 75%,transparent) !important;background-size: 55px 55px !important;}
+
+

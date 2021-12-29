@@ -1,0 +1,79 @@
+.icon_choose {color: #FF675C !important;}
+.portfolioFilter  a.current {color: #FF675C!important; }
+.portfolioFilter ul li a:hover {color: #FF675C!important;}
+.parallax_name {background: #FF675C !important;}
+.super-menu a.active {color: #FF675C !important;}
+.super-menu a:hover {color: #FF675C !important;}
+.hover-project {background: rgba(255, 102, 87, 0.75)!important;}						
+.round_left a i:hover {color:  #FF675C !important;}
+.round_right a i:hover{color:  #FF675C !important;}
+.footer {border-top: 5px solid #FF675C !important;}
+.footer_bottom a {color: #FF675C !important;}
+.soc ul li a:hover {background: #FF675C !important;}			
+.post_name a {color: #FF675C !important;}
+#responsive-menu-toggle:before {color:  #FF675C !important;}
+@media screen and (max-width: 991px) {.super-menu a.active {color: #fff !important;}.super-menu a:hover {color: #fff !important;}.site-menu-with-ul {background: #FF675C !important;}}
+.skills_list li .skill_div {background: #FF675C !important;}
+.colored {color: #FF675C !important;}
+.bbread a {color: #FF675C !important;}
+.soc_about ul li a:hover { color: #FF675C !important;}
+.icon_serv {color: #FF675C !important;}
+.icon_serv:hover {background: #FF675C !important; color: #f7f7f7 !important;}
+.icon_ex2 {color: #FF675C !important;}
+.icon_ex2:hover {background: #FF675C !important; color: #e7e7e7 !important;}
+.ac-container input:checked + label, .ac-container input:checked + label:hover {color: #FF675C !important;}
+.adress_cont a {color: #FF675C !important;}
+textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, 
+input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, 
+input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, .uneditable-input:focus {
+-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 12px rgba(255, 102, 87, 0.6) !important;
+-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 12px rgba(255, 102, 87, 0.6) !important;
+box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 12px rgba(255, 102, 87, 0.8) !important;
+}
+.plan.featured h3 {color: #FF675C !important;}
+.plan.featured .price {color: #FF675C !important;}
+.btn-price {background-color: #FF675C !important;}
+.btn-price:hover {border-color: #FF675C !important;}
+.clients-s a {color: #FF675C !important;}
+.icon_orange {color: #FF675C !important;}
+.colored {color: #FF675C !important;}
+.categories a:hover {color: #FF675C !important;}
+.meta-blog h2 a:hover {color: #FF675C !important;}
+.line_blog span i {color: #FF675C !important;}
+.line_blog a:hover {color: #FF675C !important;}
+.line_blog_med span i {color: #FF675C !important;}
+.line_blog_med a:hover {color: #FF675C !important;}
+.read_more_blog a {color: #FF675C !important;}
+.comm_name {color: #FF675C !important;}
+.actives a {color: #FF675C !important;}
+.sub-menu-short li a:hover {color: #FF675C !important;}
+.actives a {color: #FF675C !important;}
+.tool_a {color: #FF675C !important;}
+.ui-slider-range {box-shadow: inset 0 1px 0px #FF675C, inset 0 -1px 0px #FF675C, inset 0 2px 0px rgba(255,255,255,0.37) !important;background: #FF675C !important;}
+.shop_title a:hover {color: #FF675C !important;}
+.shop_price {color: #FF675C !important;}
+.shop_cart i:hover {color: #FF675C !important;}
+.pride_pg .current {background-color: #FF675C !important;}
+.pride_pg a:hover {background-color: #FF675C !important;}
+input.input-text {box-shadow: inset 0 1px 0px #FF675C, inset 0 -1px 0px #FF675C, inset 0 2px 0px rgba(255,255,255,0.37) !important;background: #FF675C !important;}
+.tags_shop:hover {color: #FF675C !important;}
+.shop_one_price {color: #FF675C !important;}
+.tweet_text a {color: #FF675C !important;}
+.main_team:hover span { box-shadow: 0 0 0 160px rgba(255, 102, 87, 0.7) inset }
+.purch {background: #FF675C !important;}
+.purch:hover {background: #222 !important;}
+.number_icons {color: #FF675C !important;}
+.button_switch li a {background: #FF675C !important; color: #f1f1f1 !important;}
+.button_switch li a:hover {color: #FF675C !important; background: #f1f1f1 !important;}
+.button_switch li a.active {color: #FF675C !important; background: #f1f1f1 !important; }
+.tp-leftarrow.default:after {color: rgba(255, 102, 87, 0.8) !important;}
+.tp-rightarrow.default:after {color: rgba(255, 102, 87, 0.8) !important;}
+.super-menu a:hover:after {color: #FF675C !important;}
+.super-menu a.active:after {color: #FF675C !important;}
+.btn-purch:hover {border: 1px solid #FF675C !important;}
+
+.team_new:hover {background: #FF675C !important;}
+.port-hover .p-hover { background: rgba(255, 102, 87,0.85)!important;}
+.skills-list li .skill-div {background: #FF675C !important; background-image: -webkit-gradient(linear,0 100%,100% 0,color-stop(0.25,rgba(255,255,255,0.15)),color-stop(0.25,transparent),color-stop(0.5,transparent),color-stop(0.5,rgba(255,255,255,0.15)) ,color-stop(0.75,rgba(255,255,255,0.15)),color-stop(0.75,transparent),to(transparent)) !important;background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,0.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,0.15) 50%,rgba(255,255,255,0.15) 75%,transparent 75%,transparent) !important;background-image: -moz-linear-gradient(45deg,rgba(255,255,255,0.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,0.15) 50%,rgba(255,255,255,0.15) 75%,transparent 75%,transparent) !important;background-image: linear-gradient(45deg,rgba(255,255,255,0.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,0.15) 50%,rgba(255,255,255,0.15) 75%,transparent 75%,transparent) !important;background-size: 55px 55px !important;}
+
+
